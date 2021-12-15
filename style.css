@@ -88,7 +88,7 @@ section .title::after{
 }
 .navbar.sticky{
     padding: 10px 0;
-    background: rgb(11 68 89);
+    background: rgb(194 38 38);
 }
 .navbar .max-width{
     display: flex;
@@ -138,7 +138,7 @@ section .title::after{
     position: fixed;
     height: 45px;
     width: 42px;
-    background: rgb(236, 26, 68);
+    background: rgb(6 24 111);
     right: 30px;
     bottom: 10px;
     text-align: center;
@@ -194,7 +194,7 @@ section .title::after{
     margin: 5px 0;
 }
 .home .home-content .text-3 span{
-    color: crimson;
+    color: #14ed25;
     font-weight: 500;
 }
 .home .home-content a{
@@ -309,7 +309,7 @@ section .title::after{
 /* skills section styling */
 
 .skills .title::after{
-    content: "what i know";
+    content: "These My skills";
 }
 .skills .skills-content .column{
     width: calc(50% - 30px);
@@ -383,7 +383,7 @@ section .title::after{
 
 /* teams section styling */
 .teams .title::after{
-    content: "who with me";
+    content: "My Members";
 }
 .teams .carousel .card{
     background: #222;
@@ -394,7 +394,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .teams .carousel .card:hover{
-    background: crimson;
+    background: rgb(22, 129, 218);
 }
 .teams .carousel .card .box{
     display: flex;
@@ -472,7 +472,7 @@ section .title::after{
 }
 .contact .contact-content .row i{
     font-size: 25px;
-    color: crimson;
+    color: rgb(6 24 111);
 }
 .contact .contact-content .info .head{
     font-weight: 500;
